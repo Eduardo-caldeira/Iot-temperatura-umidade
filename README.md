@@ -1,5 +1,3 @@
-# Hello World Example
+# Monitoramento de temperatura e umidade utilizando MQTT com ESP8266
 
-Starts a FreeRTOS task to print "Hello World"
-
-See the README.md file in the upper level 'examples' directory for more information about examples.
+Criado para a disciplina de IoT do Mestrado de Computação Aplicada da UNIVALI
